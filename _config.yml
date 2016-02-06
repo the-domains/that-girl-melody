@@ -1,4 +1,4 @@
-name: 'that girl, Melody'
+name: 'That girl, Melody'
 favicon: null
 layout_spectrum: 0.1419770542997867
 typography_spectrum: 0.39152398938313127
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#30214b'
+    - '#d7d0a9'
+    - '#9996ab'
+    - '#a3639a'
+    - '#33797a'
   brandStrength: 0.10199227533303201
   lightness: 0.7677972216624767
   saturation: 0.8870479047764093
